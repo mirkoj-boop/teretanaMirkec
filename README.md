@@ -7,28 +7,24 @@
         <!--<caption>Timetable</caption>-->
         <tr>
             <td align="center" height="50" 
-                width="100"><br>
-                <b>Day/Period</b></br>
+                width="100">
+                <b>I<br>Monday</b>
             </td>
             <td align="center" height="50" 
                 width="100">
-                <b>I<br>9:30-10:20</b>
+                <b>II<br>Tuesday</b>
             </td>
             <td align="center" height="50" 
                 width="100">
-                <b>II<br>10:20-11:10</b>
+                <b>III<br>Wednesday</b>
+          </td>
+            <td align="center" height="50" 
+                width="100">
+                <b>Thursday</b>
             </td>
             <td align="center" height="50" 
                 width="100">
-                <b>III<br>11:10-12:00</b>
-            </td>
-            <td align="center" height="50" 
-                width="100">
-                <b>12:00-12:40</b>
-            </td>
-            <td align="center" height="50" 
-                width="100">
-                <b>IV<br>12:40-1:30</b>
+                <b>IV<br>Friday</b>
             </td>
             <td align="center" height="50" 
                 width="100">
@@ -36,11 +32,11 @@
             </td>
             <td align="center" height="50" 
                 width="100">
-                <b>VI<br>2:20-3:10</b>
+                <b>VI<br>Saturday</b>
             </td>
             <td align="center" height="50" 
                 width="100">
-                <b>VII<br>3:10-4:00</b>
+                <b>VII<br> Sunday</b>
             </td>
         </tr>
         <tr>
