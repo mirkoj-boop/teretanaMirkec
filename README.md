@@ -1,2 +1,0 @@
-# teretanaMirkec
-Teretana Za mene
